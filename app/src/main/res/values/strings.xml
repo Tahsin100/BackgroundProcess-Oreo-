@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PushNotificationNew</string>
+    <string name="notifications_admin_channel_name">My Channel</string>
+</resources>
